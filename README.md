@@ -1,1 +1,1 @@
-First read me 
+GIT JAKUB SURTEL
