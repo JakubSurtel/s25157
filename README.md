@@ -1,2 +1,3 @@
 Jakub Surtel
-TO DO:
+
+problemy z zrozumieniem sortowania
